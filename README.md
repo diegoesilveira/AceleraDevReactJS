@@ -1,6 +1,9 @@
+<img alt="GoStack" src=".logo/logo.svg" />
 <h2 align="center">
  Codenation AceleraDev - ReactJS
 </h2>
+
+## Desafios
 
 - [01 - Browser Engine, Motores e Debugging](https://github.com/diegoesilveira/AceleraDevReactJS/tree/master/modulo-1) - Concluído
 - [02 - HTML5 e CSS3, Atomic Design e CSS Modular](https://github.com/diegoesilveira/AceleraDevReactJS/tree/master/modulo-2) - Concluído
